@@ -1,5 +1,5 @@
 Este é um site ilustrativo. Com informaçoẽs criadas artificialmente por IA
 
-URL do site é: studiohorizon.pages.dev
+URL do site é: (https://studiohorizon.vercel.app/)
 
 Criado por alexfogaça.
